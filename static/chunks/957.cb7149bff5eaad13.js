@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[957],{9957:function(n){n.exports={container:"InformationAbout_container__2v_I4",details:"InformationAbout_details__v7UVi"}}}]);

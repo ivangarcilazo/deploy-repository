@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[470],{1470:function(e){e.exports={text:"TextWelcome_text__afhHC",letter:"TextWelcome_letter__nES9x"}}}]);

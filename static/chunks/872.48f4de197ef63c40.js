@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[872],{8872:function(r){r.exports={slider:"Carrousel_slider__RIpdJ",carrousel:"Carrousel_carrousel__UrxUM",image:"Carrousel_image__MArDu"}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[702],{4702:function(e){e.exports={section:"Personal_section__vecsr"}}}]);

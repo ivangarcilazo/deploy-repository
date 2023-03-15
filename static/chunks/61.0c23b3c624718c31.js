@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[61],{3061:function(e){e.exports={main:"HomePage_main__9MnRC",section1:"HomePage_section1__spZSD",text:"HomePage_text__ACG_t",background:"HomePage_background__HEp2t",section2:"HomePage_section2__jUR_k",section3:"HomePage_section3__S8Iaa"}}}]);
